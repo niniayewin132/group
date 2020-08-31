@@ -16,5 +16,13 @@
   },
   "devDependencies": {
     "nodemon": "^2.0.2"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/niniayewin132/group.git"
+  },
+  "bugs": {
+    "url": "https://github.com/niniayewin132/group/issues"
+  },
+  "homepage": "https://github.com/niniayewin132/group#readme"
 }
